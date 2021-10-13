@@ -34,10 +34,10 @@
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="/{{Lang::locale()}}/companies">Companies <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="/{{Lang::locale()}}/companies">{{__('general.companies')}} <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/{{Lang::locale()}}/employees">Employees</a>
+                            <a class="nav-link" href="/{{Lang::locale()}}/employees">{{__('general.employees')}}</a>
                         </li>
                     </ul>
 

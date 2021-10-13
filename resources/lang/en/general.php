@@ -7,7 +7,32 @@ return [
 	'companies'		=>	'Companies',
 	'employees'		=>	'Employess',
 	'companyList'	=>	'Company List',
-	'companyAdd'	=>	'Create Company'
+	'companyAdd'	=>	'Create Company',
+	'listofCompany'	=>	'List of Company',
+	'addcompany'	=>	'Add Company',
+	'name'			=>	'Name',
+	'email'			=>	'Email',
+	'website'		=>	'Website',
+	'logo'			=>	'Logo',
+	'edit'			=>	'Edit',
+	'delete'		=>	'Delete',
+	'companyname'	=>	'Company Name',
+	'emailid'		=>	'Email',
+	'minsize'		=>	'Minimum size of image 100*100',
+	'companywebsite'=>	'Website',
+	'update'		=>	'Update',
+	'save'			=>	'Save',
+	'clickhere'		=>	'Click here',
+	'listofEmploee'	=>	'List of employee',
+	'fname'			=>	'First Name',
+	'lname'			=>	'Last Name',
+	'phoneno'		=>	'Phone Number',
+	'company'		=>	'Company',
+	'addemployee'	=>	'Add Employee',
+	'companylist'	=>	'List of Company',
+	'employeesadd'	=>	'Add Employee',
+	'employeeadd'	=>	'Add Employee',
+	'chhoseCompany'	=>	'Choose Company'
 ]
 
 ?>
