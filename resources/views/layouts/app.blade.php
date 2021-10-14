@@ -73,6 +73,7 @@
                             </li>
                         @endguest
                     </ul>
+                    @if(Auth::user())
                         @php
                             $dir    = resource_path('lang');
                             $filesLang = array_diff(scandir($dir), array('..', '.'));
@@ -95,6 +96,7 @@
                                 }
                             @endphp
                         </select>
+                        @endif
                 </div>
             </div>
         </nav>
